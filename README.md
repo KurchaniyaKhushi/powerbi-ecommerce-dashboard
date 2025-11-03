@@ -5,7 +5,7 @@ An interactive Power BI dashboard built to analyze and visualize e-commerce sale
 ## 🔍 Key Insights
 - Total Revenue: 438K  
 - Total Profit: 37K  
-- Top-performing Category: Furniture  
+- Top-performing Category: Clothing  
 - Major Payment Mode: COD (44%)
 
 ## Features
